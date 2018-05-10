@@ -1,2 +1,2 @@
 # ITpage
-unfinished commerce page for selling computer devices
+Unfinished commerce page for selling computer devices
